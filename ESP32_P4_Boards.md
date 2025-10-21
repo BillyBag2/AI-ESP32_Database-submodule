@@ -4,3 +4,8 @@
 | Flash size <br> CONFIG_ESPTOOLPY_FLASHSIZE_XXMB=y <br> CONFIG_ESPTOOLPY_FLASHSIZE="16MB" | 32 MB NOR Flash | 32 MB NOR Flash | 16 MB Flash | 16 MB Flash |
 | CONFIG_SPI_FLASH_SUPPORT_BOYA_CHIP | Not set |  Not set | y | Not set |
 | iPRAM | ? 32 MB ? | 32 MB | 32 MB | 32 MB |
+| Wireless module | ?? | None | ESP32-C6-MINI | ESP32-C6-MINI |
+| Touch module | None | None | None |  GT911 |
+| Audio | ?? | ?? | ?? | ES8388 codec, ES7210 AEC |
+| Motion sensor | ?? | ?? | ?? | BMI270 |
+| Display | none | none | none | 5 Inch IPS TFT (1280×720) |
